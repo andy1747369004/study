@@ -19,4 +19,4 @@ for i in range(15):
     print('{0:<10}{1:>5}'.format(word,value))
 
 
-    
+ #啊是大飒飒大大
