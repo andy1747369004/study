@@ -8,4 +8,3 @@ for i in range(6):
     speed(1) 
 end_fill()
 done()
-
