@@ -12,3 +12,4 @@ result=fab(45)
 if result !=-1:
     print('总共有%d对小兔崽子诞生!'%result)
     
+#asdadada
